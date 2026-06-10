@@ -14,4 +14,4 @@ Requirements:
 
 Write sb_free(StringBuffer *sb) which works as a destructor that frees both the internal data and the struct itself to prevent memory leaks.
 
-Demonstrate the buffer 
+Demonstrate the buffer growing at least twice and then free all memory. 
